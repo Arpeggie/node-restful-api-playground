@@ -5,6 +5,7 @@ A set of restful api built on node + express, reading Mongodb profile, return av
 - git clone, and npm install
 - to run: ` npm start`
 - to test: ` npm test `
+- to config: modify ` /config/config.js ` and specify your connection string. default to be localhost
 
 ## api list
 - "/": set profiling level to all, and then find one
